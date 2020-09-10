@@ -1,6 +1,3 @@
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
@@ -103,8 +100,8 @@ Michael Cruz Cervera - michaelcruz1998@hotmail.com
 ## Acknowledgements
 
 Dr Karina Rodriguez Echavarria: Porject Supervisor
-[SuperCyan]: https://assetstore.unity.com/packages/3d/characters/humanoids/character-pack-free-sample-79870
-[ORANGE030]: https://assetstore.unity.com/packages/tools/transparency-capture-509
+[SuperCyan](https://assetstore.unity.com/packages/3d/characters/humanoids/character-pack-free-sample-79870)
+[ORANGE030](https://assetstore.unity.com/packages/tools/transparency-capture-509)
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
