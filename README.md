@@ -1,3 +1,6 @@
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
@@ -106,14 +109,16 @@ Dr Karina Rodriguez Echavarria: Porject Supervisor
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=flat-square
+[contributors-shield]: https://img.shields.io/github/contributors/michaelcruzcervera/Best-README-Template.svg?style=flat-square
 [contributors-url]: https://github.com/michaelcruzcervera/AnimationPipeline/graphs/contributors
 [forks-url]: https://github.com/michaelcruzcervera/AnimationPipeline/network/members
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=flat-square
+[forks-shield]: https://img.shields.io/github/forks/michaelcruzcervera/Best-README-Template.svg?style=flat-square
+[forks-url]: https://github.com/michaelcruzcervera/AnimationPipeline/network/members
+[stars-shield]: https://img.shields.io/github/stars/michaelcruzcervera/Best-README-Template.svg?style=flat-square
 [stars-url]: https://github.com/michaelcruzcervera/AnimationPipeline/stargazers
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=flat-square
+[issues-shield]: https://img.shields.io/github/issues/michaelcruzcervera/Best-README-Template.svg?style=flat-square
 [issues-url]: https://github.com/michaelcruzcervera/AnimationPipeline/issues
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=flat-square
+[license-shield]: https://img.shields.io/github/license/michaelcruzcervera/Best-README-Template.svg?style=flat-square
 [license-url]: https://github.com/michaelcruzcervera/AnimationPipeline/blob/master/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/michael-cruz-cervera/
